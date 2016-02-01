@@ -1,6 +1,6 @@
 Word Count:
 Kuno: 21
-Vishta: 0
+Vishta: 31 
 
  Machine STOPS
 
